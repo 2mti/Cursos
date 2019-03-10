@@ -1,36 +1,19 @@
 ![Alt Text](https://github.com/MagnoMonteCerqueira/Zabbix/blob/master/Zabbix_3.2/src/img/zabbix.jpg)
 
+“Acreditamos que o conhecimento deve ser compartilhado de forma justa a acessível. Por isso criamos treinamentos de qualidade, voltados para profissionais de TI que querem agregar valor em suas empresas.
 
-## Curso criando template para Zabbix.
+Marcos Cassio, Cofundador
 
-https://www.udemy.com/zabbix-construindo-templates-personalizados/?couponCode=ZABBICAO
+# Nossos cursos!
 
+https://treinamentos.2mti.com.br/
 
-## Doações ? 
-
-Bitcoin: 1GY9TRySMjNj7DMoi7e1whzBCQASMLBker
-
-Bitcoin cash: 1PT4X6bgBwH2NvJsngv3rNPDNAWMYvgZ9H
-
-Dash: Xww2Lh14GRHGasBGvC1s5Szzt3KuEPkkL8
-
-Ethereum: 0x619a63767932c7b0d5d920381139d1d15c95c851
 
 ## Quer contribuir com a Comunidade Zabbix? 
 
 ### Em caso de dúvida, sugestão ou dificuldade junte-se a nós no Grupo do Telegram!
 
 * Grupo: https://t.me/ZabbixBrasil 
-
-## Contatos:
-
-
-* Telegram: @Magnopeem
-* Skype: magnopeem_rj@hotmail.com
-* E-mail: magnopeem@gmail.com
-* Linkedin: https://br.linkedin.com/in/magno-monte-cerqueira-976b1587
-
-
 
 
 
